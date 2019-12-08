@@ -1,0 +1,38 @@
+Wendeng:
+(Structural Break)
+- RMSE (SARIMA): 43538.76
+- RMSE (TES 1): 14583.89
+- RMSE (TES 2): 21674.04
+- RMSE (TES 3): 1805228890.05
+- RMSE (TES 4): 7229.81
+
+SARIMA (Univariate of Med. SoldPrice)
+- RMSE: 314120.22
+TES
+- RMSE (1): 65924.10
+- RMSE (2): 65543.34
+- RMSE (3): 374077.611
+
+Akanksha:
+VAR (Med. Sold Price vs. Med. Mortgage Rate)
+- RMSE VAR(1): 32122.98
+- RMSE VAR(2): 14090.08
+- RMSE VAR(3): 21090.75
+VAR (Med. Sold Price vs. Unemployment Rate)
+- RMSE VAR(1): 58081.31
+- RMSE VAR(2): 39161.22
+- RMSE VAR(3): 55458.93
+
+Shree:
+SARIMAX (Med. Sold Price vs. Med. Mortgage Rate)
+- RMSE: 17690.74
+SARIMAX (Med. Sold Price vs. Unemployment Rate)
+- RMSE: 16105.74
+
+Ariana:
+VAR (Med. Sold Price vs. Mortgage Rate & Unemployment Rate)
+- RMSE VAR(1): 51980.44
+- RMSE VAR(2): 26080.43
+- RMSE VAR(3): 47200.498
+SARIMAX (Med. Sold Price vs. Mortgage Rate & Unemployment Rate)
+- RMSE: 17892.50
