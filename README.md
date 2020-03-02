@@ -18,4 +18,4 @@ Models used were:
 - VAR
 - TES
 
-![Results](../master/myFolder/results.png)
+![Results](../master/images/results.png)
