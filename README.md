@@ -3,12 +3,19 @@
 Contributors:
 - Ariana Moncada
 - Akanksha
-- Wendeng HU
+- Wendeng Hu
 - Shreejaya Bharathan
 
 Time series analysis to forecast median sold price of homes in California. 
-Models used:
+
+![Forecast](../master/images/forecast.png)
+
+
+
+Models used were:
 - SARIMA
 - SARIMAX
 - VAR
 - TES
+
+![Results](../master/myFolder/results.png)
